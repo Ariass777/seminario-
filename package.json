@@ -1,0 +1,24 @@
+{
+  "name": "tarea-semana-5",
+  "version": "1.0.0",
+  "description": "**Historia de Usuario (HU-02):** Como estudiante, quiero crear una tarea asociada a una asignatura con su fecha de entrega y prioridad, para saber qué actividades tengo pendientes.\r **Criterio de Aceptación:** El sistema debe registrar la tarea en el almacenamiento local con estado \"Pendiente\". No debe permitir fechas de entrega en el pasado ni descripciones vacías.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ariass777/seminario-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ariass777/seminario-/issues"
+  },
+  "homepage": "https://github.com/Ariass777/seminario-#readme",
+  "devDependencies": {
+    "@types/jasmine": "^7.0.0"
+  }
+}

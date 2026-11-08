@@ -1,3 +1,4 @@
+/// <reference types="jasmine" />
 import { TareaService } from './tarea.service';
 
 describe('TareaService - HU-02: Crear Tarea', () => {
